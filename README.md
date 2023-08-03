@@ -4,9 +4,16 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+- my motivation was to make ways for all kinds of users allowing them to have options that they not get on another site
+  
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+i made this website so people can have access to what other websites may not provide
+
 - What problem does it solve?
+- i believe it helps people who are blind have an idea of what the website is showing on  the website because they cannot see so only with the voice audio they can hear a description of the images being showed
+- 
 - What did you learn?
+- in the css part of the assignment i learned that the language can be written more simpler for example if something is saying the same thing 3 times or more i can put them all together in one line putting a "," to make more space so people can read the code better 
 
 
 ## Usage
